@@ -40,7 +40,7 @@ You will also occasionally see `else` blocks using a similar pattern:
         }
     }
 
-When there's no additional logic in the block outside of the match, the extra pair of braces, two vertical lines, and indentation are visual clutter with no offsetting benefit, so it would be nice to remove them.
+When there's no additional logic in the block outside of the match, the extra pair of braces, two lines, and indentation are visual clutter with no offsetting benefit, so it would be nice to remove them.
 
 
 # Detailed design
